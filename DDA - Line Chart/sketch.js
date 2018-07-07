@@ -1,3 +1,5 @@
+#DDA algorithm to generate Line Chart
+
 function setup() {
   createCanvas(1200,1200)
 }
