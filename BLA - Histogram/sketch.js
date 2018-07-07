@@ -1,3 +1,5 @@
+# BLA algorithm to generate Histogram
+
 function setup() {
   createCanvas(screen.width,screen.height)
 }
