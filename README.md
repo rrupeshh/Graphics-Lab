@@ -15,5 +15,5 @@ This repository contains the lab assignments of computer graphics.
 7. Liang Barsky Line Clipping Algorithm
 8. WindMill
 
-### Guide line for Using Repository
+### Guide line for using this repository
 [Download](https://p5js.org/download/) p5.js library. And copy `` index.html`` and ``spript.js`` from the respective folder to ``p5/empty-example/``
